@@ -1,3 +1,8 @@
+[![Build Status](https://app.travis-ci.com/Shakeskeyboarde/react-collate.svg?branch=main)](https://app.travis-ci.com/Shakeskeyboarde/react-collate)
+[![Github Stars](https://badgen.net/github/stars/Shakeskeyboarde/react-collate)](https://github.com/Shakeskeyboarde/react-collate)
+[![NPM Version](https://badgen.net/npm/v/react-collate)](https://www.npmjs.com/package/react-collate)
+[![Bundlephobia Size](https://badgen.net/bundlephobia/minzip/react-collate)](https://bundlephobia.com/package/react-collate@latest)
+
 Flatten a React "pyramid of doom" by composing multiple layers into a single component.
 
 ## Getting Started
