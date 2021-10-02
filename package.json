@@ -1,6 +1,6 @@
 {
   "name": "react-collate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/types/index.d.ts",
@@ -89,5 +89,13 @@
   },
   "browserslist": [
     "IE >= 11"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shakeskeyboarde/react-collate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shakeskeyboarde/react-collate/issues"
+  },
+  "homepage": "https://shakeskeyboarde.github.io/react-collate/"
 }
